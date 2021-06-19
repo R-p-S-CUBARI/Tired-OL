@@ -1,0 +1,17 @@
+{
+  "title": "The Tired Office Lady and Ghost Arms",
+  "description": "A manga about a tired office lady being revitalised by a ghost that only has arms",
+  "artist": "Kokikuji You",
+  "author": "Kokikuji You",
+  "cover": "https://i.imgur.com/kGhWdQQ.jpg",
+  "chapters": {
+    "01": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/ReyGsVj/"
+      },
+      "last_updated": "1622965755"
+    }
+  }
+}
