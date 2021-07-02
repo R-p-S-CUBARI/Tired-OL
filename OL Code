@@ -12,6 +12,22 @@
         "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/ReyGsVj/"
       },
       "last_updated": "1622965755"
+    },
+    "02": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/0yYKed5/"
+      },
+      "last_updated": "1625216976"
+    },
+    "03": {
+      "title": "",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/eH1kIo3/"
+      },
+      "last_updated": "1625216976"
     }
   }
 }
